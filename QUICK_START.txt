@@ -1,0 +1,100 @@
+═══════════════════════════════════════════════════════════════
+  REDDIT PERFORMANCE DASHBOARD - QUICK START GUIDE
+═══════════════════════════════════════════════════════════════
+
+📦 FILES TO UPLOAD TO GITHUB (6 total):
+   ✅ index.html
+   ✅ script.js
+   ✅ recho-logo.png
+   ✅ README.md
+   ✅ .gitignore
+   ✅ DEPLOYMENT.md
+
+🚀 3-STEP DEPLOYMENT TO GITHUB PAGES (FREE!):
+
+Step 1: CREATE REPOSITORY
+   → Go to github.com
+   → Click "+" → "New repository"
+   → Name: reddit-dashboard
+   → Visibility: PUBLIC
+   → Click "Create repository"
+
+Step 2: UPLOAD FILES
+   → Click "uploading an existing file"
+   → Drag & drop all 6 files
+   → Click "Commit changes"
+
+Step 3: ENABLE GITHUB PAGES
+   → Click "Settings" → "Pages"
+   → Source: Branch "main" → Folder "/ (root)"
+   → Click "Save"
+   → Wait 2 minutes
+
+✅ YOUR LIVE URL:
+   https://YOUR-USERNAME.github.io/reddit-dashboard/
+
+═══════════════════════════════════════════════════════════════
+
+🌐 ALTERNATIVE HOSTING OPTIONS (ALSO FREE):
+
+Option A: CLOUDFLARE PAGES
+   → pages.cloudflare.com
+   → Connect GitHub
+   → Select repository
+   → Deploy
+   URL: https://reddit-dashboard.pages.dev
+
+Option B: NETLIFY
+   → netlify.com
+   → Import from GitHub
+   → Select repository
+   → Deploy
+   URL: https://site-name.netlify.app
+
+═══════════════════════════════════════════════════════════════
+
+📋 WHAT'S INCLUDED:
+
+✅ Professional Reddit Performance Dashboard
+✅ 21+ KPIs (Organic + Paid)
+✅ 3 Reporting Pages (Executive, Organic, Paid)
+✅ Interactive Charts (Chart.js)
+✅ Week-over-Week & Month-over-Month Tracking
+✅ RECHO Branding
+✅ PDF Export Functionality
+✅ Fully Responsive Design
+✅ Dummy/Anonymized Data (safe to share!)
+
+═══════════════════════════════════════════════════════════════
+
+🔗 SHARING YOUR DASHBOARD:
+
+✅ Anyone with the URL can view it
+✅ Safe to share (dummy data only)
+✅ Perfect for:
+   • Client presentations
+   • Portfolio showcases
+   • Team collaboration
+   • Stakeholder reporting
+
+⚠️  DO NOT use for real client data without password protection!
+
+═══════════════════════════════════════════════════════════════
+
+📚 NEED MORE HELP?
+
+→ Read GITHUB_SETUP.md - Detailed step-by-step guide
+→ Read DEPLOYMENT.md - Advanced deployment options
+→ Read README.md - Full dashboard documentation
+
+═══════════════════════════════════════════════════════════════
+
+💡 PRO TIPS:
+
+• Use GitHub Pages (easiest, 100% free)
+• Make repository PUBLIC (required for free hosting)
+• Wait 2-5 minutes for first deployment
+• Test all features before sharing
+• Update files by editing directly on GitHub
+
+═══════════════════════════════════════════════════════════════
